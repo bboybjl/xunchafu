@@ -24,7 +24,7 @@ html,body{
     width: 70px;
     height: 70px;
     border-radius: 50%;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 /*address*/
 .address{
@@ -91,11 +91,10 @@ html,body{
 /*footer*/
 .footer{
     width: 100%;
-    position: absolute;
-    bottom: 10px;
     text-align: center;
     color: #ccc;
     font-size: 20px;
+
 }
 
 .code{
